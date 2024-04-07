@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Brendon Travassos - Web Developer from New York
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Brendon Travassos
 
 aria-label = Toggle Menu
 
@@ -38,7 +38,7 @@ alt = I'm developer from New York
 
 Hello I'm
 
-Ethan Ward
+Brendon Travassos
 
 Web Developer from New York
 
